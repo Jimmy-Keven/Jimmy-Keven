@@ -1,16 +1,13 @@
-### Hi there 👋
+### Seja Bem-vindo ao meu perfil 🤙🏻
 
-<!--
-**Jimmy-Keven/Jimmy-Keven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Jimmy Keven
 
-Here are some ideas to get you started:
+- Estou no Ensino Medio
+- Fazendo curso no Alura de programação
+- Utilizando este espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo pelo meu e-mail constitucional de estudante:
+
+00001094097536sp@al.educacao.sp.gov.br
+
+![]()
